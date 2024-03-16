@@ -2,7 +2,7 @@
 ️
 ```
 Peoples:
-Author: João Leonardi da Silva Melo
+Name: João Leonardi da Silva Melo
 Email: joao_leonardi.melo@somosicev.com
 Linkedin: @xleonardi
 
