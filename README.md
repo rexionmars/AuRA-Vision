@@ -8,3 +8,4 @@ Special thanks ❤️
 Francisco Luciani
 Adler Zaith
 ```
+This project is fuly opensource
