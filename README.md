@@ -1,7 +1,5 @@
 ## The project
-Hypr Vision is an lasses that implement computer vision to assist visually impaired individuals through auditory instructions.
-️
-
+Hypr Vision is glasses that implement computer vision and artificial intelligence to assist individuals with visual impairments through auditory instructions.
 
 Special thanks ❤️
 ```
