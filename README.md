@@ -1,4 +1,4 @@
-## The project
+## Overview
 Hypr Vision is glasses that implement computer vision and artificial intelligence to assist individuals with visual impairments through auditory instructions.
 
 <div align="center">
